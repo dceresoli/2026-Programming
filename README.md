@@ -1,4 +1,4 @@
-# 2026-2027\Programming for Chemistry @ UniMI
+# 2026-2027 Programming for Chemistry @ UniMI
 This repository contains the slides and the Jupyter notebook for the classes.
 
 You can find the calendar of the lectures, info and last-minute announcements
