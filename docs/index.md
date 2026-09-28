@@ -4,7 +4,7 @@ The course is divided in two parts: the first presents [Python](https://www.pyth
 the second focuses on libraries that can be useful in scientific computation and data analysis,
 in particular [NumPy](https://numpy.org) and [SciPy](https://scipy.org).
 
-**Where:** Computer room 311, settore didattico, via Celoria
+**Where:** Computer room **311**, settore didattico, via Celoria
 
 **When:**  Tuesdays and Fridays 08:30-10:30, starting from **Friday 02/10/2026**
 
@@ -27,31 +27,31 @@ consist in few general questions + coding a simple algorithm. The exercises will
 
 ## Course schedule (tentative)
 
-| Day  | Hour  | Room  | Topic  |
-|---|---|---|---|
-| 02/10/2026  | 08:30-10:30  | 311  | 01: Introduction to Python and tools ([slides](https://raw.githubusercontent.com/dceresoli/2025-Programming/main/lec01-slides/lec01-slides.pdf), [notebook](lec01.zip)) |
-| 06/10/2026  | 08:30-10:30  | 311  | 02: Variables, data types, operators, conditionals, loops |
-| 09/10/2026  | 08:30-10:30  | 311  | 03: Exercises on variables, loops, nested loops |
-| 13/10/2026  | 08:30-10:30  | 311  | 04: Lists, tuples, sets, dictionaries, strings |
-| 16/10/2026  | 08:30-10:30  | 311  | 05: Functions: parameters, scope, return values |
-| 20/10/2026  | 08:30-10:30  | 311  | 06: Free programming practice #1, Q&A |
-| 23/10/2026  | 08:30-10:30  | 311  | 06: Advanced functions: recursion, passing functions to functions, lambdas |
-| 27/10/2026  | 08:30-10:30  | 311  | 07: Misc topics: random numbers, file I/O, text processing |
-| 30/10/2026  | 08:30-10:30  | 311  | 08: Misc topics: random numbers, file I/O, text processing (continued) |
-| 06/11/2026  | 08:30-10:30  | 311  | 10: Free programming practice #2, Q&A |
-| 10/11/2026  | 08:30-10:30  | 311  | 11: Object Oriented Programming |
-| 13/11/2026  | 08:30-10:30  | 311  | 12: Advanced Object Oriented Programming |
-| 17/11/2026  | 08:30-10:30  | 311  | 13: Computer graphics |
-| 20/11/2026  | 08:30-10:30  | 311  | 14: Let's code a game |
-| 24/11/2026  | 08:30-10:30  | 311  | 16: NumPy |
-| 27/11/2026  | 08:30-10:30  | 311  | 17: Numpy + Matplotlib |
-| 01/12/2026  | 08:30-10:30  | 311  | 18: SciPy |
-| 04/12/2026  | 08:30-10:30  | 311  | 19: Applications to chemistry |
-| 11/12/2026  | 08:30-10:30  | 311  | 20: Basic ML with scikit-learn |
-| 15/12/2026  | 08:30-10:30  | 311  | 21: Chemoinformatics with RDkit |
-| 22/12/2026  | 08:30-10:30  | 311  | 22: Let's code a simple LLM |
-| 08/01/2027  | 08:30-10:30  | 311  | 23: Neural networks in Python |
-| 19/01/2027  | 08:30-10:30  | 311  | 24: Free programming practice #3 & Farewel |
+| Day  | Hour  | Room  | Lec | Topic  |
+|---|---|---|---|---|
+| 02/10/2026  | 08:30-10:30  | 311 | 01 | Introduction to Python and tools ([slides](https://raw.githubusercontent.com/dceresoli/2026-Programming/main/lec01-slides/lec01-slides.pdf), [notebook](lec01.zip)) |
+| 06/10/2026  | 08:30-10:30  | 311 | 02 | Variables, data types, operators, conditionals, loops [notebook](lec02.zip)) |
+| 09/10/2026  | 08:30-10:30  | 311 | 03 | Lists, tuples, sets, dictionaries, strings [notebook](lec03.zip)) |
+| 13/10/2026  | 08:30-10:30  | 311 | 04 | |
+| 16/10/2026  | 08:30-10:30  | 311 | 05 | |
+| 20/10/2026  | 08:30-10:30  | 311 | 06 | |
+| 23/10/2026  | 08:30-10:30  | 311 | 06 | |
+| 27/10/2026  | 08:30-10:30  | 311 | 07 | |
+| 30/10/2026  | 08:30-10:30  | 311 | 08 | |
+| 06/11/2026  | 08:30-10:30  | 311 | 10 | |
+| 10/11/2026  | 08:30-10:30  | 311 | 11 | |
+| 13/11/2026  | 08:30-10:30  | 311 | 12 | |
+| 17/11/2026  | 08:30-10:30  | 311 | 13 | |
+| 20/11/2026  | 08:30-10:30  | 311 | 14 | |
+| 24/11/2026  | 08:30-10:30  | 311 | 16 | |
+| 27/11/2026  | 08:30-10:30  | 311 | 17 | |
+| 01/12/2026  | 08:30-10:30  | 311 | 18 | |
+| 04/12/2026  | 08:30-10:30  | 311 | 19 | |
+| 11/12/2026  | 08:30-10:30  | 311 | 20 | |
+| 15/12/2026  | 08:30-10:30  | 311 | 21 | |
+| 22/12/2026  | 08:30-10:30  | 311 | 22 | |
+| 08/01/2027  | 08:30-10:30  | 311 | 23 | |
+| 19/01/2027  | 08:30-10:30  | 311 | 24 | Free programming practice #3 & Farewel |
 
 [Notebooks done](notebooks-done.zip)
 
