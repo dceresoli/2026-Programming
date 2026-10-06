@@ -30,9 +30,9 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | Day  | Hour  | Room  | Lec | Topic  |
 |---|---|---|---|---|
 | 02/10/2026  | 08:30-10:30  | 311 | 01 | Introduction to Python and tools ([slides](https://raw.githubusercontent.com/dceresoli/2026-Programming/main/lec01-slides/lec01-slides.pdf), [notebook](lec01.zip)) |
-| 06/10/2026  | 08:30-10:30  | 311 | 02 | Variables, data types, operators, conditionals, loops [notebook](lec02.zip)) |
-| 09/10/2026  | 08:30-10:30  | 311 | 03 | Lists, tuples, sets, dictionaries, strings [notebook](lec03.zip)) |
-| 13/10/2026  | 08:30-10:30  | 311 | 04 | |
+| 06/10/2026  | 08:30-10:30  | 311 | 02 | Variables, data types, operators ([notebook](lec02.zip)) |
+| 09/10/2026  | 08:30-10:30  | 311 | 03 | Conditionals, loops ([notebook](lec02.zip)) |
+| 13/10/2026  | 08:30-10:30  | 311 | 04 | Lists, tuples, sets, dictionaries, strings ([notebook](lec03.zip)) |
 | 16/10/2026  | 08:30-10:30  | 311 | 05 | |
 | 20/10/2026  | 08:30-10:30  | 311 | 06 | |
 | 23/10/2026  | 08:30-10:30  | 311 | 06 | |
