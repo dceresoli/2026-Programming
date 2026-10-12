@@ -33,7 +33,7 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 06/10/2026  | 08:30-10:30  | 311 | 02 | Variables, data types, operators, conditionals, loops ([notebook](lec02.zip)) |
 | 09/10/2026  | 08:30-10:30  | 311 | 03 | Variables, data types, operators, conditionals, loops (continued) |
 | 13/10/2026  | 08:30-10:30  | 311 | 04 | Lists, tuples, sets, dictionaries, strings ([notebook](lec03.zip)) |
-| 16/10/2026  | 08:30-10:30  | 311 | 05 | |
+| 16/10/2026  | 08:30-10:30  | 311 | 05 | Lists, tuples, sets, dictionaries, strings (continued) |
 | 20/10/2026  | 08:30-10:30  | 311 | 06 | |
 | 23/10/2026  | 08:30-10:30  | 311 | 06 | |
 | 27/10/2026  | 08:30-10:30  | 311 | 07 | |
