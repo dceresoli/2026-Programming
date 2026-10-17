@@ -36,7 +36,7 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 16/10/2026  | 08:30-10:30  | 311 | 05 | Lists, tuples, sets, dictionaries, strings (continued) |
 | 20/10/2026  | 08:30-10:30  | 311 | 06 | Functions: parameters, scope, return values ([notebook](lec04.zip)) |
 | 23/10/2026  | 08:30-10:30  | 311 | 07 | Q&A + Exercisese session #1  ([notebook](ex01.zip) |
-| 27/10/2026  | 08:30-10:30  | 311 | 08 | |
+| 27/10/2026  | 08:30-10:30  | 311 | 08 | Advanced functions: recursion, lambdas ([notebook](lec05.zip) |
 | 30/10/2026  | 08:30-10:30  | 311 | 09 | |
 | 06/11/2026  | 08:30-10:30  | 311 | 10 | |
 | 10/11/2026  | 08:30-10:30  | 311 | 11 | |
