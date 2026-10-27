@@ -35,11 +35,11 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 13/10/2026  | 08:30-10:30  | 311 | 04 | Lists, tuples, sets, dictionaries, strings ([notebook](lec03.zip)) |
 | 16/10/2026  | 08:30-10:30  | 311 | 05 | Lists, tuples, sets, dictionaries, strings (continued) |
 | 20/10/2026  | 08:30-10:30  | 311 | 06 | Functions: parameters, scope, return values ([notebook](lec04.zip)) |
-| 23/10/2026  | 08:30-10:30  | 311 | 07 | Q&A + Exercisese session #1  ([notebook](ex01.zip) |
-| 27/10/2026  | 08:30-10:30  | 311 | 08 | Advanced functions: recursion, lambdas ([notebook](lec05.zip) |
-| 30/10/2026  | 08:30-10:30  | 311 | 09 | |
-| 06/11/2026  | 08:30-10:30  | 311 | 10 | |
-| 10/11/2026  | 08:30-10:30  | 311 | 11 | |
+| 23/10/2026  | 08:30-10:30  | 311 | 07 | Q&A + Exercisese session #1  ([notebook](ex01.zip)) |
+| 27/10/2026  | 08:30-10:30  | 311 | 08 | Advanced functions: recursion, lambdas ([notebook](lec05.zip)) |
+| 30/10/2026  | 08:30-10:30  | 311 | 09 | Misc topics: random numbers, file I/O ([notebook](lec06.zip)) |
+| 06/11/2026  | 08:30-10:30  | 311 | 10 | Applications to chemistry ([notebook](lec07.zip)) |
+| 10/11/2026  | 08:30-10:30  | 311 | 11 | Q&A + Exercisese session #2  ([notebook](ex01.zip)) |
 | 13/11/2026  | 08:30-10:30  | 311 | 12 | |
 | 17/11/2026  | 08:30-10:30  | 311 | 13 | |
 | 20/11/2026  | 08:30-10:30  | 311 | 14 | |
