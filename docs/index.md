@@ -35,23 +35,24 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 13/10/2026  | 08:30-10:30  | 311 | 04 | Lists, tuples, sets, dictionaries, strings ([notebook](lec03.zip)) |
 | 16/10/2026  | 08:30-10:30  | 311 | 05 | Lists, tuples, sets, dictionaries, strings (continued) |
 | 20/10/2026  | 08:30-10:30  | 311 | 06 | Functions: parameters, scope, return values ([notebook](lec04.zip)) |
-| 23/10/2026  | 08:30-10:30  | 311 | 07 | Q&A + Exercisese session #1  ([notebook](ex01.zip)) |
+| 23/10/2026  | 08:30-10:30  | 311 | 07 | Q&A + exercise session #1  ([notebook](ex01.zip)) |
 | 27/10/2026  | 08:30-10:30  | 311 | 08 | Advanced functions: recursion, lambdas ([notebook](lec05.zip)) |
 | 30/10/2026  | 08:30-10:30  | 311 | 09 | Misc topics: random numbers, file I/O ([notebook](lec06.zip)) |
 | 06/11/2026  | 08:30-10:30  | 311 | 10 | Applications to chemistry ([notebook](lec07.zip)) |
-| 10/11/2026  | 08:30-10:30  | 311 | 11 | Q&A + Exercisese session #2  ([notebook](ex01.zip)) |
-| 13/11/2026  | 08:30-10:30  | 311 | 12 | |
-| 17/11/2026  | 08:30-10:30  | 311 | 13 | |
-| 20/11/2026  | 08:30-10:30  | 311 | 14 | |
-| 24/11/2026  | 08:30-10:30  | 311 | 16 | |
-| 27/11/2026  | 08:30-10:30  | 311 | 17 | |
-| 01/12/2026  | 08:30-10:30  | 311 | 18 | |
-| 04/12/2026  | 08:30-10:30  | 311 | 19 | |
-| 11/12/2026  | 08:30-10:30  | 311 | 20 | |
-| 15/12/2026  | 08:30-10:30  | 311 | 21 | |
-| 22/12/2026  | 08:30-10:30  | 311 | 22 | |
-| 08/01/2027  | 08:30-10:30  | 311 | 23 | |
-| 19/01/2027  | 08:30-10:30  | 311 | 24 | Free programming practice #3 & Farewel |
+| 10/11/2026  | 08:30-10:30  | 311 | 11 | Object Oriented Programming ([notebook](lec08.zip)) |
+| 13/11/2026  | 08:30-10:30  | 311 | 12 | Advanced Object Oriented Programming ([notebook](lec09.zip)) |
+| 17/11/2026  | 08:30-10:30  | 311 | 13 | Computer Graphics ([notebook](lec10.zip)) |
+| 20/11/2026  | 08:30-10:30  | 311 | 14 | Q&A + exercise session #2  ([notebook](ex01.zip)) |
+| 24/11/2026  | 08:30-10:30  | 311 | 15 | Let's code a game ([notebook](lec11.zip)) |
+| 27/11/2026  | 08:30-10:30  | 311 | 16 | Numpy & Matplotlib ([notebook](lec12.zip)) |
+| 01/12/2026  | 08:30-10:30  | 311 | 17 | Applications to chemistry ([notebook](lec13.zip)) |
+| 04/12/2026  | 08:30-10:30  | 311 | 18 | ASE ([notebook](lec14.zip)) |
+| 11/12/2026  | 08:30-10:30  | 311 | 19 | Machine Learning with scikit-learn ([notebook](lec15.zip)) |
+| 15/12/2026  | 08:30-10:30  | 311 | 20 | Chemoinformatics with RDkit ([notebook](lec16.zip)) |
+| 18/12/2026  | 08:30-10:30  | 311 | 21 | Neural networksit ([notebook](lec17.zip)) |
+| 22/12/2026  | 08:30-10:30  | 311 | 22 | Vibe coding ([notebook](lec18.zip)) |
+| 08/01/2027  | 08:30-10:30  | 311 | 23 | Python problems & excercise session #3 |
+| 12/01/2027  | 08:30-10:30  | 311 | 24 | Excercise session #4 & Farewel |
 
 [Notebooks done](notebooks-done.zip)
 
