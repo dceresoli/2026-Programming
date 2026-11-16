@@ -67,6 +67,8 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 12/01/2027  | 08:30-10:30  | 311 | 24 | Excercise session #4 & Farewel |
 
 [Notebooks done (1-7)](notebooks-done-1-7.zip)
+
 [Notebooks done (8-11)](notebooks-done-8-11.zip)
-[Notebooks done (12-)](notebooks-done-12-.zip)
+
+[Notebooks done (12-19)](notebooks-done-12-19.zip)
 
