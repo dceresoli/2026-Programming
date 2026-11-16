@@ -27,6 +27,8 @@ consist in few general questions + coding a simple algorithm. The exercises will
 
 ## Course schedule (tentative)
 
+### Part 1:
+
 | Day  | Hour  | Room  | Lec | Topic  |
 |---|---|---|---|---|
 | 02/10/2026  | 08:30-10:30  | 311 | 01 | Introduction to Python and tools ([slides](https://raw.githubusercontent.com/dceresoli/2026-Programming/main/lec01-slides/lec01-slides.pdf), [notebook](lec01.zip)) |
@@ -39,11 +41,21 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 27/10/2026  | 08:30-10:30  | 311 | 08 | Advanced functions: recursion, lambdas ([notebook](lec05.zip)) |
 | 30/10/2026  | 08:30-10:30  | 311 | 09 | Misc topics: random numbers, file I/O ([notebook](lec06.zip)) |
 | 06/11/2026  | 08:30-10:30  | 311 | 10 | Applications to chemistry ([notebook](lec07.zip)) |
+
+### Part 2:
+
+| Day  | Hour  | Room  | Lec | Topic  |
+|---|---|---|---|---|
 | 10/11/2026  | 08:30-10:30  | 311 | 11 | Object Oriented Programming ([notebook](lec08.zip)) |
 | 13/11/2026  | 08:30-10:30  | 311 | 12 | Advanced Object Oriented Programming ([notebook](lec09.zip)) |
 | 17/11/2026  | 08:30-10:30  | 311 | 13 | Computer Graphics ([notebook](lec10.zip)) |
 | 20/11/2026  | 08:30-10:30  | 311 | 14 | Q&A + exercise session #2  ([notebook](ex01.zip)) |
 | 24/11/2026  | 08:30-10:30  | 311 | 15 | Let's code a game ([notebook](lec11.zip)) |
+
+### Part 3:
+
+| Day  | Hour  | Room  | Lec | Topic  |
+|---|---|---|---|---|
 | 27/11/2026  | 08:30-10:30  | 311 | 16 | Numpy & Matplotlib ([notebook](lec12.zip)) |
 | 01/12/2026  | 08:30-10:30  | 311 | 17 | Applications to chemistry ([notebook](lec13.zip)) |
 | 04/12/2026  | 08:30-10:30  | 311 | 18 | ASE ([notebook](lec14.zip)) |
@@ -54,5 +66,7 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 08/01/2027  | 08:30-10:30  | 311 | 23 | Python problems & excercise session #3 |
 | 12/01/2027  | 08:30-10:30  | 311 | 24 | Excercise session #4 & Farewel |
 
-[Notebooks done](notebooks-done.zip)
+[Notebooks done (1-7)](notebooks-done-1-7.zip)
+[Notebooks done (8-11)](notebooks-done-8-11.zip)
+[Notebooks done (12-)](notebooks-done-12-.zip)
 
