@@ -61,7 +61,7 @@ consist in few general questions + coding a simple algorithm. The exercises will
 | 04/12/2026  | 08:30-10:30  | 311 | 18 | ASE ([notebook](lec14.zip)) |
 | 11/12/2026  | 08:30-10:30  | 311 | 19 | Machine Learning with scikit-learn ([notebook](lec15.zip)) |
 | 15/12/2026  | 08:30-10:30  | 311 | 20 | Chemoinformatics with RDkit ([notebook](lec16.zip)) |
-| 18/12/2026  | 08:30-10:30  | 311 | 21 | Neural networksit ([notebook](lec17.zip)) |
+| 18/12/2026  | 08:30-10:30  | 311 | 21 | Neural networks ([notebook](lec17.zip)) |
 | 22/12/2026  | 08:30-10:30  | 311 | 22 | Vibe coding ([notebook](lec18.zip)) |
 | 08/01/2027  | 08:30-10:30  | 311 | 23 | Python problems & excercise session #3 |
 | 12/01/2027  | 08:30-10:30  | 311 | 24 | Excercise session #4 & Farewel |
